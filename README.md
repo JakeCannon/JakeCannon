@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, I'm Jake Cannon 👋
 
-<!--
-**JakeCannon/JakeCannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Graduate with a Bachelor of Information Sciences degree based in Auckland, NZ. I'm passionate about Technology, Space and Cars.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** C, C#, C++, Java, JavaScript, Python
+- **Web Development:** HTML5, CSS, SCSS, NextJS
+- **Version Control:** Git and GitHub, Unity Version Control with Plastic SCM
+- **Other Skills:** 
+
+## 💼 My Work
+
+- [Project 1](link to project 1): Brief description.
+- [Project 2](link to project 2): Brief description.
+- [Project 3](link to project 3): Brief description.
+
+## 🌱 I'm Currently Learning
+
+I'm always eager to learn and grow. Currently, I'm focused on:
+
+- NextJS
+- Unreal Engine
+
+## 📫 How to Reach Me
+
+- Email: jakecannon99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jake-cannon-5b492a231
+
+## 🎯 Goals
+
+I aspire to start my career within the IT industry and gain experience working for a company.
+
+Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out! Let's connect and collaborate.
+
+<!-- Your additional sections or creative touches here -->
