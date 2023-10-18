@@ -33,4 +33,8 @@ I aspire to start my career within the IT industry and gain experience working f
 
 Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out! Let's connect and collaborate.
 
+## Stats & Info
+![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeCannon&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeCannon&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Your additional sections or creative touches here -->
